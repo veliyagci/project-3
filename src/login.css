@@ -1,0 +1,8 @@
+l  #entrence{
+    background-attachment:fixed;
+    background-position:center;
+    background-color: white;
+    background-repeat: no-repeat;
+    transform: translate(5px,50px);
+    background-image: url("../images/logingif.gif")
+  }
